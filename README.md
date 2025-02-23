@@ -65,7 +65,7 @@ The dataset, Mall_Customers.csv, contains customer information such as:
 
 ## 🚀 Running the Code
 1. Clone this repository:
-   git clone https://github.com/QuantumCoderrr/Customer-Segmentation-ML.git
+   git clone https://github.com/MesvRon/CustomerVista.git
 
 2. Install dependencies:
    pip install -r requirements.txt
